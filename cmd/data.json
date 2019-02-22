@@ -1,0 +1,57 @@
+[
+  {
+    "baseFileName": "favicon",
+    "extension": "png",
+    "rel": "icon",
+    "sizes": [
+      32,
+      96,
+      152,
+      160,
+      192,
+      196
+    ]
+  },
+  {
+    "baseFileName": "apple-touch-icon",
+    "rel": "apple-touch-icon",
+    "extension": "png",
+    "sizes": [
+      180,
+      120,
+      167,
+      152,
+      114,
+      144,
+      72,
+      57,
+      80,
+      87,
+      58,
+      60,
+      64,
+      40
+    ]
+  },
+  {
+    "rel": "icon",
+    "baseFileName": "windows-device",
+    "extension": "png",
+    "sizes": [
+      48,
+      62,
+      173,
+      99,
+      200,
+      256
+    ]
+  },
+  {
+    "baseFileName": "open-graph",
+    "extension": "png",
+    "sizes": [
+      600
+    ]
+  }
+]
+
